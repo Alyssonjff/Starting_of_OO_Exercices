@@ -8,7 +8,7 @@ public class Principal {
         Quadrilatero quar = new Quadrilatero(5,4);
         manipular.obterInformacoes(quar);
 
-        Triangulo tri = new Triangulo(10, 12, 12, 10, 10);
+        Triangulo tri = new Triangulo(10, 12, 12);
         manipular.obterInformacoes(tri);
     }
 }
